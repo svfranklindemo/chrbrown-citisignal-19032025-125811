@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/chrbrown/Projects/:/",
+      "/content/chrbrown/Projects/configuration:/.helix/config.json",
+      "/content/chrbrown/Projects/metadata:/metadata.json",
+      "/content/chrbrown/Projects/configs:/configs.json",
+      "/content/chrbrown/Projects/configs-stage:/configs-stage.json",
+      "/content/chrbrown/Projects/configs-dev:/configs-dev.json",
+      "/content/chrbrown/Projects/redirects:/redirects.json",
+      "/content/chrbrown/Projects/placeholders:/placeholders.json",
+      "/content/chrbrown/Projects/products/recommended-products:/products/recommended-products.json",
+      "/content/chrbrown/Projects/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/chrbrown/Projects/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/chrbrown/Projects",
       "/content/dam/citisignal/images/products/"
     ]
 }
